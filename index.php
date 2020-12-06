@@ -11,5 +11,8 @@
 
         Aparte de este lorem podemos abrir un codigo php <?php echo "hola"; ?>
     </p>
+    <div>
+        hola
+    </div>
 </body>
 </html>

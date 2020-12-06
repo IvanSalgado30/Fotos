@@ -7,10 +7,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
-    <div class="container">
-        
-    
-    </div>
+
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>

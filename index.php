@@ -7,8 +7,16 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
-
-    
+    <header>
+        <div class="container">
+            <h1>Bienvenido</h1>
+        </div>
+    </header>
+    <div class="container">
+        <section class="main row">
+            
+        </section>
+    </div>
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
 </body>
